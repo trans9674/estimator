@@ -1,0 +1,5 @@
+{
+  "name": "注文住宅自動積算システム",
+  "description": "ユーザーが写真をアップロードし、Gemini AIモデルを使用してその内容を分析および理解できるアプリケーションです。",
+  "requestFramePermissions": []
+}
